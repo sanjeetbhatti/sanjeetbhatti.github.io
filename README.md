@@ -1,10 +1,11 @@
-# Sanjeet Bhatti | Mobile and Backend Developer
+# Mobile and Backend Developer
 
 #### Technical Skills: Python, C, JavaScript, HTML, R, SQL, Java, Dart, Android SDK, Flutter, FastAPI, MySQL, PostgreSQL, SQLite, REST APIs, Git, Docker, Windows, Linux, Figma, Canva, Adobe XD, Statistical Analysis
 
 ## Education
 M.Sc., Computer Science | University of Saskatchewan (_December 2023_)
 _Specialization: Human-Computer Interaction_
+
 Graduate Teaching Assistant – Programming Principles and Practice, Computer Organization and Architecture, Software Development, Formal Design Processes, Digital Document Processing, Computer Science for Engineers
 
 ## Work Experience
