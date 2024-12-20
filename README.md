@@ -1,14 +1,16 @@
 # Mobile and Backend Developer
 
-## Technical Skills: 
+#### Technical Skills
 **Languages:** Python, C#, JavaScript, C, HTML, R, Bash, SQL, Java, Dart
+
 **Tools & Technologies:** Android SDK, Flutter, FastAPI, MySQL, PostgreSQL, SQLite, SQL Server, .NET, REST APIs, Git, Docker, Windows, Linux, Figma, Canva, Adobe XD, Statistical Analysis
 
 ## Education
 M.Sc., Computer Science | University of Saskatchewan (_December 2023_)
-**_Specialization:** Human-Computer Interaction_
 
-**Graduate Teaching Assistant** – Programming Principles and Practice, Computer Organization and Architecture, Software Development, Formal Design Processes, Digital Document Processing, Computer Science for Engineers
+_Specialization:_ Human-Computer Interaction
+
+_Graduate Teaching Assistant:_ Programming Principles and Practice, Computer Organization and Architecture, Software Development, Formal Design Processes, Digital Document Processing, Computer Science for Engineers
 
 ## Work Experience
 **Instructor @ Saskatoon Industry Education Council** (_October 2024 – December 2024_)
