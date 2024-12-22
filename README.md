@@ -1,9 +1,17 @@
 # Mobile and Backend Developer
 
-#### Technical Skills
-**Languages:** Python, C#, JavaScript, C, HTML, R, Bash, SQL, Java, Dart
+## Technical Skills
+**Languages:** C#, SQL, XML, JavaScript, HTML, Python, R, Bash, C, Java, Dart
 
-**Tools & Technologies:** Android SDK, Flutter, FastAPI, MySQL, PostgreSQL, SQLite, SQL Server, .NET, REST APIs, Git, Docker, Windows, Linux, Figma, Canva, Adobe XD, Statistical Analysis
+**Frameworks and Libraries:** Visual Studio, .NET, Android SDK, REST APIs, Flutter, FastAPI, Processing, p5.js
+
+**Databases:** SQL Server, MySQL, PostgreSQL, SQLite
+
+**Tools and Platforms:** Git, Docker, Windows, Linux
+
+**Design and Visualization:** Figma, Canva, Adobe XD
+
+**CMSs:** Shopify, WordPress, Joomla
 
 ## Education
 M.Sc., Computer Science | University of Saskatchewan (_December 2023_)
