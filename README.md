@@ -1,11 +1,11 @@
 # Mobile and Backend Developer
 
 ## Technical Skills
-**Languages:** C#, SQL, XML, JavaScript, HTML, Python, R, Bash, C, Java, Dart
+**Languages:** Dart, Python, R, C#, SQL, XML, JavaScript, HTML, CSS, C, Java, Bash
 
-**Frameworks and Libraries:** Visual Studio, .NET, Android SDK, REST APIs, Flutter, FastAPI, Processing, p5.js
+**Frameworks and Libraries:**  Flutter, Android SDK, REST APIs, Godot, FastAPI, Visual Studio, .NET, Processing, p5.js
 
-**Databases:** SQL Server, MySQL, PostgreSQL, SQLite
+**Databases:** MySQL, PostgreSQL, SQLite
 
 **Tools and Platforms:** Git, Docker, Windows, Linux
 
@@ -14,7 +14,7 @@
 **CMSs:** Shopify, WordPress, Joomla
 
 ## Education
-M.Sc., Computer Science | University of Saskatchewan (_December 2023_)
+M.Sc., Computer Science | University of Saskatchewan
 
 _Specialization:_ Human-Computer Interaction
 
@@ -43,13 +43,13 @@ Created custom mobile apps to investigate the effects of GPS inaccuracy on user 
 
 Updated core GRASS components for Python 3 and update all the python modules, libraries and components. Modified the GUI module and provided support for both the versions of wxPython (Classic (3 or older) and Phoenix (4)).
 
+### Image Manipulation _(Python, FastAPI, MySQL, Docker)_
+
+Developed an image manipulation Python application using FastAPI and containerized it using docker. The application takes PNG or JPEG image format as input and outputs a compressed version to the user via a download link through the frontend UI. Database support using MySQL allows to store results and provide the users with an option to download previously generated files.
+
 ### Audio Converter _(C#, .NET, Docker)_
 
 Developed a .NET REST API application that aims to convert audio files uploaded in wav format and provide an mp3 version as a result.  The user is able to download the converted audio file through a link on the application webpage. The application is containerized using docker.
-
-### Image Manipulation _(Python, FastAPI, Docker)_
-
-Developed an image manipulation Python application using FastAPI and containerized it using docker. The application takes PNG or JPEG image format as input and outputs a compressed version to the user via a download link through the frontend UI.
 
 ### Sentiment Analysis _(Python, Gephi)_
 
