@@ -14,7 +14,7 @@
 **CMSs:** Shopify, WordPress, Joomla
 
 ## Education
-M.Sc., Computer Science | University of Saskatchewan
+M.Sc. Computer Science (Thesis-based) | University of Saskatchewan
 
 _Specialization:_ Human-Computer Interaction
 
@@ -23,7 +23,7 @@ _Graduate Teaching Assistant:_ Programming Principles and Practice, Computer Org
 ## Work Experience
 **Instructor @ Saskatoon Industry Education Council** (_October 2024 – December 2024_)
 - Taught a game development course to grade 10-12 students as a GameOn! Bootcamp instructor in the Fall term
-- Prepared and delivered teaching material, quizzes, and course activities; and supported students with their development and troubleshooting
+- Prepared and delivered teaching materials, quizzes, and course activities; supported students with their game development and troubleshooting
 
 **Mentor @ Canada Learning Code** (_October 2018 – Present_)
 - Mentored hundreds of learners from all age groups and educational backgrounds on various computer science topics and programming languages (in-person and online Canada-wide workshops).
@@ -45,7 +45,7 @@ Updated core GRASS components for Python 3 and update all the python modules, li
 
 ### Image Manipulation _(Python, FastAPI, MySQL, Docker)_
 
-Developed an image manipulation Python application using FastAPI and containerized it using docker. The application takes PNG or JPEG image format as input and outputs a compressed version to the user via a download link through the frontend UI. Database support using MySQL allows to store results and provide the users with an option to download previously generated files.
+Developed an image manipulation Python application using FastAPI and containerized it using docker. The application takes PNG or JPEG image format as input and outputs a compressed version to the user via a download link through the frontend UI. Database support using MySQL was added to store results and provide the users with an option to download previously generated files.
 
 ### Audio Converter _(C#, .NET, Docker)_
 
